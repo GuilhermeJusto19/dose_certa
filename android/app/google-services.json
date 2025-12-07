@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "661495323611",
+    "project_id": "dosecerta-f3bec",
+    "storage_bucket": "dosecerta-f3bec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661495323611:android:f04b97c9d0264a183ea5fe",
+        "android_client_info": {
+          "package_name": "com.example.dose_certa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661495323611-8eb1j08snp5bir67jpp47gk2c6jv7agu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dose_certa",
+            "certificate_hash": "ca832d0a63b0ef2c9902fb5bd29f3061ca89ef19"
+          }
+        },
+        {
+          "client_id": "661495323611-oald3fa8u76avsc92l3g3eutnadtiglj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfZErNMJ4pa4A3vUX9hufLc7AqRvrKvUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661495323611-oald3fa8u76avsc92l3g3eutnadtiglj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661495323611-r4a7e8ccroon5qrhqp3ufdcg6od7d67e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doseCerta"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
