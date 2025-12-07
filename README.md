@@ -12,8 +12,6 @@ remota, Hive para lembretes locais e um padrão arquitetural MVVM.
 **Stack principal:** Flutter, Dart, Firebase (Auth / Firestore), Hive,
 flutter_local_notifications, timezone.
 
-**Observação rápida:** o chatbot não ira funcionar sem configurar uma nova conexão e chave de API, para funcionar crie um .env com a variavel CHAT_KEY='sua chave aqui'.
-
 ## Pré-requisitos
 
 - Flutter SDK (versão compatível recomendada: 3.x ou superior)
